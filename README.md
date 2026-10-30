@@ -32,6 +32,10 @@ You can do it just as you like.
 If you want to use Traggo, you need to host it yourself. This way, you have the full control over your data and no third-party
 may be able to read it. Have a look at our [Install Guide](https://traggo.net/install/).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Traggo/)
+
 ## Features
 
 * easy to setup
